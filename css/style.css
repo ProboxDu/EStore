@@ -1,0 +1,47 @@
+/*
+* @Filename: style.css 
+* @Author: ProboxDu
+* @Date:   2018-06-14 18:54:33
+* @Last Modified by:   ProboxDu
+* @Last Modified time: 2018-07-01 11:41:48
+*/
+/* CSS Document */
+
+.error {
+	color:red;
+}
+
+.one_title {
+	width: 350px;
+	height: 30px;
+	float: right;
+	margin-bottom: 21px;
+	position: relative;
+	top: 35px;
+	left: -400px;
+	}
+.icons{
+    float:left;
+    margin-top:3px;
+    margin-left:13px;
+}
+.one_title h2{
+	line-height:30px;
+	margin-left:7px;
+	font-family:"微软雅黑","幼圆" ,"宋体" ,Arial, Helvetica, sans-serif;
+	float:left;
+	}
+.one_title h2 a{
+	font-size:18px;
+	color:#ea7c14;
+	}
+.one_title h2 span {
+	color:#6e6f70;
+	font-size:10px;
+	padding-left:6px;
+	}
+.one_title p {
+	float:right;
+	margin-right:10px;
+	margin-top:10px;
+	}
